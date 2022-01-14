@@ -27,7 +27,9 @@ jbarbanel531@gmail.com
 
 # Contributors 
 [Jay Barbanel](https://github.com/JayBarbanel)
+
 [Elmira Tashvighi](https://github.com/Elmiratash)
+
 [Sebastian Lampel](https://github.com/AstrosTech)
 
 ## Screen Shot 
